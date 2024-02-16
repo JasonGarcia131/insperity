@@ -90,7 +90,7 @@ const Main = () => {
   return (
     <main className="bg-black h-full py-6 flex flex-col justify-center bg-white lg:w-full lg:flex lg:flex-col lg:justify-center">
       <div className="flex justify-between items-center">
-        <h1 className="text-black text-4xl ml-12 font-bold lg:text-center lg:text-6xl lg:mt-[150px]">
+        <h1 className="text-black text-4xl ml-12 font-bold lg:text-center lg:mt-[150px]">
           Welcome back, John
         </h1>
         <button className="w-[140px] h-[25px] mr-12 rounded-md bg-tertairy text-white lg:mt-[150px]">

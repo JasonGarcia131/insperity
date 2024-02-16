@@ -57,7 +57,7 @@ const Nav = () => {
         </div>
     </nav>
     <div className={`${toggle.user ? 'w-full h-full' : 'hidden'} text-white bg-black opacity-95 sidebar lg:w-full lg:h-screen lg:block lg:bg-black lg:text-white lg:opacity-100`}>
-            <ul className='underline font-bold ml-2 py-2 lg:text-xl'>
+            <ul className='underline font-bold ml-2 py-2'>
                 <li>Emergency Contact Updates</li>
                 <li>Time</li>
                 <li>Employee Welcome</li>

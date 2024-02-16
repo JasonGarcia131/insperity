@@ -5,7 +5,7 @@ const Header = () => {
         src="https://insperity.myisolved.com/Content/Images/isolvedLogo.png"
         alt="logo"
       />
-      <div className="flex flex-col justify-around text-[10px] mx-2">
+      <div className="flex flex-col justify-around text-[9px] mx-2">
         <p>DELIVERED BY</p>
         <p>INSPERITY</p>
       </div>
